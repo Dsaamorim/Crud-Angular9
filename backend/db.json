@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": 3,
+      "name": "PS2",
+      "price": 2345.89
+    },
+    {
+      "name": "teste",
+      "price": "123.65",
+      "id": 5
+    },
+    {
+      "name": "teste testado",
+      "price": "10.65",
+      "id": 7
+    },
+    {
+      "name": "ovos",
+      "price": "33333",
+      "id": 8
+    },
+    {
+      "name": "semaforo",
+      "price": "12",
+      "id": 9
+    }
+  ]
+}

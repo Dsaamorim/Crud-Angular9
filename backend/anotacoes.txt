@@ -1,0 +1,12 @@
+Em JSON, você define uma propriedade com aspas duplas. 
+
+O que é um componente? 
+
+Um trecho de código, um componente visual que terá HTML + CSS + TS(Typescript)
+
+Componente tem comportamento, estrutura do html e estilo do css 
+
+Teremos 3 arquivos que formam a trindade do front-end 
+
+A partir do arquivo typescript, irá encontrar o html e o css 
+
